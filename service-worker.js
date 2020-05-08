@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-chat/precache-manifest.9155a1dca59ae3702113a32b4fc97c80.js"
+  "/vue-chat/precache-manifest.1e31d7feedcc0bd8d192d597eb3fe370.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "yinfo"});
