@@ -4,32 +4,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-chat/.nojekyll"
   },
   {
-    "revision": "c504079a9f9591bdaa07",
-    "url": "/vue-chat/css/app.66da4a3d.css"
+    "revision": "658495e5f6dc3d7960bb",
+    "url": "/vue-chat/css/app.7378dea6.css"
   },
   {
-    "revision": "f4a648a1db68c9d81724",
+    "revision": "0110678ca05246fb7a70",
     "url": "/vue-chat/css/chunk-6f7d7d5d.6c52e948.css"
   },
   {
-    "revision": "9c38195e91f0a7c0742d",
+    "revision": "8506918d4570c8c140c8",
     "url": "/vue-chat/css/chunk-vendors.0318dc70.css"
   },
   {
-    "revision": "aa05e82d9d77307d124572cc92281242",
+    "revision": "745ac5392163660c2d7451746e9130bd",
     "url": "/vue-chat/index.html"
   },
   {
-    "revision": "c504079a9f9591bdaa07",
-    "url": "/vue-chat/js/app.f6a12988.js"
+    "revision": "658495e5f6dc3d7960bb",
+    "url": "/vue-chat/js/app.b917c834.js"
   },
   {
-    "revision": "f4a648a1db68c9d81724",
-    "url": "/vue-chat/js/chunk-6f7d7d5d.887c1f47.js"
+    "revision": "0110678ca05246fb7a70",
+    "url": "/vue-chat/js/chunk-6f7d7d5d.821e0e67.js"
   },
   {
-    "revision": "9c38195e91f0a7c0742d",
-    "url": "/vue-chat/js/chunk-vendors.b2e51641.js"
+    "revision": "8506918d4570c8c140c8",
+    "url": "/vue-chat/js/chunk-vendors.e545a312.js"
   },
   {
     "revision": "6c5ea2f48cf4623c32b0193743d85e58",
